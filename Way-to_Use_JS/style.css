@@ -1,0 +1,9 @@
+button{
+    background-color: red;
+    color: white;
+    border-radius: 12px;
+    border-color: black;
+    padding:1rem;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
